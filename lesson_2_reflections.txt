@@ -2,3 +2,9 @@ the staging area is different from the working directory and the repository as
 it only includes the files that we want to commit. not all the files.
 by allowing the user to ass one file per logical change it helps bundle together
 files of similar nature accordingly.
+
+Now, I will understand different types of diffs. The staging area helps me
+compare files which have been altered to their previous commit. git diff. git
+diff --staged and git diff id1 id2 help achieve these tasks.
+
+The staging area can be used to check one commit per logical change.
