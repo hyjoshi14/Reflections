@@ -8,3 +8,9 @@ compare files which have been altered to their previous commit. git diff. git
 diff --staged and git diff id1 id2 help achieve these tasks.
 
 The staging area can be used to check one commit per logical change.
+
+Visualizing commits as graphs with node-parent relationship and understanding
+reachability. git checkout, git branch git checkout -b.
+
+HEAD - latest commit you are working on that is unsaved. arises when commit id
+passed to git checkout.
