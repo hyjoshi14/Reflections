@@ -20,3 +20,9 @@ by merging two branches together we provide the checkout branch all the changes
 made on the other branch. owing to which we are easily able to merge the files
 together. Using the diagrams help understand if a commit is reachable and if it
 is only then it can be merged.
+
+using manual conflict resolves -
+Head - my branch
+common ancestor - part where both branches changed and where the changes were
+made by both
+master - changes in master or other branch
