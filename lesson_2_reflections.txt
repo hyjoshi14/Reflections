@@ -1,0 +1,4 @@
+the staging area is different from the working directory and the repository as
+it only includes the files that we want to commit. not all the files.
+by allowing the user to ass one file per logical change it helps bundle together
+files of similar nature accordingly.
