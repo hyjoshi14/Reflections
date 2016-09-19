@@ -14,3 +14,9 @@ reachability. git checkout, git branch git checkout -b.
 
 HEAD - latest commit you are working on that is unsaved. arises when commit id
 passed to git checkout.
+
+
+by merging two branches together we provide the checkout branch all the changes
+made on the other branch. owing to which we are easily able to merge the files
+together. Using the diagrams help understand if a commit is reachable and if it
+is only then it can be merged.
