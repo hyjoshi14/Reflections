@@ -1,5 +1,5 @@
 Creating a remote would be most helpful once the project is ready to be shared with the public.
 
-The benefit of habing the last known state of the remote saved locally allows for merging of divergent branches.
+The benefit of having the last known state of the remote saved locally allows for merging of divergent branches.
 Using commands like git fetch and git merge (these two are essentially the basis of git pull) two branches which
 are out-of-sync can be merged into one.
