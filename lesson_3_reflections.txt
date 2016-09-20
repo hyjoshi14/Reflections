@@ -6,3 +6,6 @@ for merging of divergent branches. Using commands like git fetch and git merge
 -sync can be merged into one.
 
 Without git and github version checking, conflict resolution would be harder.
+
+Using separate branches is useful in case of experimenting so as to not affect working code
+on the master.
